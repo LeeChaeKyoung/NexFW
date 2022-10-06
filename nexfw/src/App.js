@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          가지 치기 dfsdf
+          가지 치기 dfsdfd
         </a>
       </header>
     </div>
